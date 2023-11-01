@@ -7,6 +7,8 @@ html {
 *::before,
 h1,
 h2,
+h3,
+h4,
 p,
 article,
 section,
@@ -175,7 +177,7 @@ body {
     display: flex;
     flex-direction: row;
     margin-top: 175px;
-    margin-left: 420px;
+    /* margin-left: 420px; */
   }
 
   .cover-container {
@@ -229,6 +231,6 @@ body {
   /* ATTRIBUTION */
 
   .attribution {
-    margin-left: 420px;
+    /* margin-left: 420px; */
   }
 }
