@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Product-preview-card-component](https://divano-coder.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -59,5 +59,6 @@ I am goint to continue develop designs in front-end mentor, to earn confidence a
 
 ## Author
 
-- Linkedin - [Divano De La Rosa](https://www.linkedin.com/in/divanodelarosa/)
+- LinkedIn - [Divano De La Rosa](https://www.linkedin.com/in/divanodelarosa/)
 - Frontend Mentor - [@Divano-coder](https://www.frontendmentor.io/profile/Divano-coder)
+- CodeWars - [@Divano-coder](https://www.codewars.com/users/divanoCoder)
